@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="ICONE.ico" type="Aula-03/ICONE">
-    <title>Plataforma de Financiamento Coletivo para Projetos Criativos</title>
+    <title></title>
 </head>
 <body>
     <h1>11111111111111111111111111111111111111111111 LISTA DE ATIVIDADES NA SEMANA...</h1>
@@ -17,7 +17,8 @@
     <img src="BARAO1.png" alt="logo do barão">
     <img src="BARAO2.jpg" alt="foto do Barão">
     
-    <ol>
+    
+    
         <li>Segunda-feira</li>
         <a href="segunda.html" target="_blank">Horário de segunda-feira dia 26/02</a>
     
