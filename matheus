@@ -4,49 +4,55 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="ICONE.ico" type="Aula-03/ICONE">
-    <title></title>
+    <title>Plataforma de Financiamento Coletivo para Projetos Criativos</title>
 </head>
 <body>
-    <h1> RLCS FALL MAJOR 24</h1>
+    <h1>Plataforma de Financiamento Coletivo para Projetos Criativos</h1>
     
-    <p> Aqui estou mostrando como será a rotina da RLCS FALL MAJOR 2024, que ocorrerá em Compenhage (Capital da Dinamarca) </p>
+    <p>Bem-vindo à nossa plataforma! Aqui você pode apoiar projetos criativos incríveis e fazer parte da realização de grandes ideias.</p>
     
+    <h2>Projetos em Destaque</h2>
+    <!-- Aqui você pode listar alguns projetos em destaque -->
     
-    <img src="NEWTON1.jpg" alt="logo do Newton">
-    <img src="NEWTON2.jpg" alt="foto do Newton"> 
-    <img src="BARAO1.png" alt="logo do barão">
-    <img src="BARAO2.jpg" alt="foto do Barão">
-    
-    
-    
-        <li>Segunda-feira</li>
-        <a href="segunda.html" target="_blank">Horário de segunda-feira dia 26/02</a>
-    
-
-        <li>Terça-feira</li>
-        <a href="terca.html" target="_blank">Horário de terça-feira dia 27/02</a>
-    
-        <li>Quarta-feira</li>
-        <a href="quarta.html" target="_blank">Horário de quarta-feira dia 27/02</a>
+    <h2>Como Funciona</h2>
+    <ol>
+        <li>Escolha um Projeto</li>
+        <p>Explore os projetos criativos em nossa plataforma e escolha o que você deseja apoiar.</p>
         
-        <li>Quinta-feira</li>
-        <a href="quinta.html" target="_blank">Horário de quinta-feira dia 27/02</a>
+        <li>Faça sua Contribuição</li>
+        <p>Contribua financeiramente para o projeto selecionado e ajude-o a atingir sua meta de financiamento.</p>
         
-        <li>Sexta-feira</li>
-        <a href="sexta.html" target="_blank">Horário de sexta-feira dia 27/02</a>
+        <li>Acompanhe o Progresso</li>
+        <p>Acompanhe o progresso do projeto e veja como sua contribuição está fazendo a diferença.</p>
         
+        <li>Recompensas</li>
+        <p>Receba recompensas exclusivas oferecidas pelo criador do projeto como agradecimento pelo seu apoio.</p>
     </ol>
-    <h2> PARA VER TODOS OS ARQUIVOS</h2>
-    <a href="https://github.com/rogeriodfreis/HTML-CSS" target="_blank">Acesse o GitHub para pegar os exemplos feitos</a>
-
-    <h2> PARA BAIXAR ESSE CONTEUDO EM PDF</h2>
-    <a href="https://github.com/rogeriodfreis/HTML-CSS/blob/main/COINI.pdf" target="_blank"  download="COINI.pdf" type="aplication/pdf">
-        Baixe aqui seu PDF dos principais comandos.
-    </a>
-     <h2> PARA PUBLICAR O SITE</h2>
     
-    <p> Rotinas para publicar o site.</p>
+    <h2>Projetos Recentes</h2>
+    <!-- Aqui você pode listar alguns projetos recentemente adicionados à plataforma -->
     
+    <h2>Como Criar um Projeto</h2>
+    <p>Se você é um criador e deseja financiar seu projeto em nossa plataforma, siga estes passos:</p>
+    <ol>
+        <li>Crie sua Conta</li>
+        <p>Registre-se em nossa plataforma como criador de projetos.</p>
+        
+        <li>Crie sua Campanha</li>
+        <p>Crie uma campanha detalhada explicando seu projeto, metas de financiamento e recompensas para os apoiadores.</p>
+        
+        <li>Compartilhe sua Campanha</li>
+        <p>Compartilhe sua campanha com sua rede e promova-a nas mídias sociais para atrair apoiadores.</p>
+        
+        <li>Acompanhe o Progresso</li>
+        <p>Acompanhe o progresso da sua campanha e mantenha seus apoiadores informados sobre o andamento do projeto.</p>
+    </ol>
     
+    <h2>Contato</h2>
+    <p>Se você tiver alguma dúvida ou precisar de assistência, entre em contato conosco através do formulário de contato.</p>
+    
+    <footer>
+        <p>&copy; 2024 Plataforma de Financiamento Coletivo para Projetos Criativos. Todos os direitos reservados.</p>
+    </footer>
 </body>
 </html>
